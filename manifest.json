@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Teacher Timer",
+  "name": "Simple Timer",
   "version": "1.0",
   "description": "Click to open a fullscreen countdown timer in a new tab.",
   "icons": {
